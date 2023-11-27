@@ -1,0 +1,16 @@
+{
+  "name": "assistant-function-mervin-praison",
+  "version": "1.0.0",
+  "description": "See [OpenAI Assistants API. Function Calling + Node.js](https://youtu.be/YTURKTxMaZE?si=kn8_zYMBddqhyA_K) by Mervin Praison",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Casiano Rodriguez Leon <crguezl@ull.edu.es> (https://crguezl.github.io/)",
+  "license": "ISC",
+  "dependencies": {
+    "openai": "^4.20.0",
+    "yahoo-finance2": "^2.9.0"
+  }
+}
